@@ -1,0 +1,10 @@
+<?php
+ 
+return array(
+
+	'consumer_key' 			=> '',
+	'consumer_secret'		=> '',
+	'oauth_token'			=> '',
+	'oauth_token_secret'	=> '',
+	
+);
