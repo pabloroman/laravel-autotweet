@@ -4,7 +4,7 @@
  * A LaravelPHP Twitter bot to send automated tweets from your app.
  *
  * @package    Autotweet
- * @author     Scott Travis <pablo@thenextweb.com>
+ * @author     Pablo Román <pablo@thenextweb.com>
  * @link       http://github.com/pabloroman/laravel-autotweet
  * @license    MIT License
  */
